@@ -22,4 +22,4 @@ I have mastered 3 programming language which are C ++, Java And Phyton and I am 
                   
                
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Chill_guy_original_artwork.jpg/220px-Chill_guy_original_artwork.jpg"  />
+<img align="left" height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Chill_guy_original_artwork.jpg/220px-Chill_guy_original_artwork.jpg"  />
