@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and data engineer
 --------------------------
 
-I have mastered 3 programming language which are C ++, Java And Phyton and I am keen to learn new skills in programming.
+I have mastered 3 programming language which are C ++, Java And Python and I am keen to learn new skills in programming.
 
 *   🌍  I'm based in University Teknologi Malaysia
 *   ✉️  You can contact me at [irfanazahan98@gmail.com](mailto:irfanazahan98@gmail.com)
